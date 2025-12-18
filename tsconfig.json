@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "utils/supabase/client.js", "utils/supabase/middleware.js", "utils/supabase/server.js", "proxy.js", "app/actions.js", "app/page.js", "app/layout.js", "components/AddProductForm.js", "components/AuthButton.js", "components/AuthModal.js", "lib/utils.js"  ],
   "exclude": ["node_modules"]
 }
